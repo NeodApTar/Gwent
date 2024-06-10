@@ -1,0 +1,14 @@
+﻿  ConsoleApplication88.cpp
+C:\Users\aleyn\OneDrive\Рабочий стол\ConsoleApplication88\ConsoleApplication88\ConsoleApplication88.cpp(1876,9): warning C4101: y: неиспользованная локальная переменная
+C:\Users\aleyn\OneDrive\Рабочий стол\ConsoleApplication88\ConsoleApplication88\ConsoleApplication88.cpp(1876,6): warning C4101: x: неиспользованная локальная переменная
+C:\Users\aleyn\OneDrive\Рабочий стол\ConsoleApplication88\ConsoleApplication88\ConsoleApplication88.cpp(1881,6): warning C4101: urov: неиспользованная локальная переменная
+C:\Users\aleyn\OneDrive\Рабочий стол\ConsoleApplication88\ConsoleApplication88\ConsoleApplication88.cpp(2699,7): warning C4101: nomer1: неиспользованная локальная переменная
+C:\Users\aleyn\OneDrive\Рабочий стол\ConsoleApplication88\ConsoleApplication88\ConsoleApplication88.cpp(3682,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  font.cpp
+  Leaderboard.cpp
+  Создание кода...
+C:\Users\aleyn\OneDrive\Рабочий стол\ConsoleApplication88\ConsoleApplication88\ConsoleApplication88.cpp(1732,1): warning C4715: kart: значение возвращается не при всех путях выполнения
+C:\Users\aleyn\OneDrive\Рабочий стол\ConsoleApplication88\ConsoleApplication88\ConsoleApplication88.cpp(1839,1): warning C4715: power: значение возвращается не при всех путях выполнения
+C:\Users\aleyn\OneDrive\Рабочий стол\ConsoleApplication88\ConsoleApplication88\ConsoleApplication88.cpp(3443,1): warning C4715: WIN: значение возвращается не при всех путях выполнения
+C:\Users\aleyn\OneDrive\Рабочий стол\ConsoleApplication88\ConsoleApplication88\ConsoleApplication88.cpp(3671,1): warning C4715: menu: значение возвращается не при всех путях выполнения
+  ConsoleApplication88.vcxproj -> C:\Users\aleyn\OneDrive\Рабочий стол\ConsoleApplication88\Debug\ConsoleApplication88.exe

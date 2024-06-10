@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ConsoleApplication88\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77A76A97-00C6-42E4-8456-D3EFD627D203}|ConsoleApplication88\\ConsoleApplication88.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ConsoleApplication88\\ConsoleApplication88\\ConsoleApplication88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77A76A97-00C6-42E4-8456-D3EFD627D203}|ConsoleApplication88\\ConsoleApplication88.vcxproj|solutionrelative:ConsoleApplication88\\ConsoleApplication88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A76A97-00C6-42E4-8456-D3EFD627D203}|ConsoleApplication88\\ConsoleApplication88.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ConsoleApplication88\\ConsoleApplication88\\LeaderBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77A76A97-00C6-42E4-8456-D3EFD627D203}|ConsoleApplication88\\ConsoleApplication88.vcxproj|solutionrelative:ConsoleApplication88\\LeaderBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A76A97-00C6-42E4-8456-D3EFD627D203}|ConsoleApplication88\\ConsoleApplication88.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ConsoleApplication88\\ConsoleApplication88\\font.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77A76A97-00C6-42E4-8456-D3EFD627D203}|ConsoleApplication88\\ConsoleApplication88.vcxproj|solutionrelative:ConsoleApplication88\\font.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A76A97-00C6-42E4-8456-D3EFD627D203}|ConsoleApplication88\\ConsoleApplication88.vcxproj|C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ConsoleApplication88\\ConsoleApplication88\\font.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77A76A97-00C6-42E4-8456-D3EFD627D203}|ConsoleApplication88\\ConsoleApplication88.vcxproj|solutionrelative:ConsoleApplication88\\font.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaderBoard.h",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ConsoleApplication88\\ConsoleApplication88\\LeaderBoard.h",
+              "RelativeDocumentMoniker": "ConsoleApplication88\\LeaderBoard.h",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ConsoleApplication88\\ConsoleApplication88\\LeaderBoard.h",
+              "RelativeToolTip": "ConsoleApplication88\\LeaderBoard.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T20:48:23.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication88.cpp",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ConsoleApplication88\\ConsoleApplication88\\ConsoleApplication88.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication88\\ConsoleApplication88.cpp",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ConsoleApplication88\\ConsoleApplication88\\ConsoleApplication88.cpp",
+              "RelativeToolTip": "ConsoleApplication88\\ConsoleApplication88.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T20:48:23.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "font.cpp",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ConsoleApplication88\\ConsoleApplication88\\font.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication88\\font.cpp",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ConsoleApplication88\\ConsoleApplication88\\font.cpp",
+              "RelativeToolTip": "ConsoleApplication88\\font.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T20:48:23.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "font.h",
+              "DocumentMoniker": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ConsoleApplication88\\ConsoleApplication88\\font.h",
+              "RelativeDocumentMoniker": "ConsoleApplication88\\font.h",
+              "ToolTip": "C:\\Users\\aleyn\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ConsoleApplication88\\ConsoleApplication88\\font.h",
+              "RelativeToolTip": "ConsoleApplication88\\font.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T20:48:23.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
